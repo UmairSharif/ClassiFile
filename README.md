@@ -1,4 +1,4 @@
-# ClassiFile ![Logo](./classifileicon.png)
+# ClassiFile(1.0) <img src="classifileicon.png" alt="drawing" width="35" height="35" />
 
 An Open Source Mac app to created Automated Swift Classes + Extensions for your model
 
@@ -84,8 +84,6 @@ Currently this project only focus to create only **Swift** classes.
 We are contributing to make development more riliable and fast.
 **Your help will be appriciated and warmly welcome.**
 
-**Owner**
+# Contributors
 * [Syed Qamar Abbas (Facebook)](https://www.facebook.com/syedqamar.a)
-
-
-
+* [Muhammad Umair (Facebook)](https://www.facebook.com/umair.sharif99)
